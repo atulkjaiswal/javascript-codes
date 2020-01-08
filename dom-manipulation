@@ -1,0 +1,9 @@
+console.log('hello'); 
+
+//How to write a comment
+
+//alret('test');
+
+var age= prompt('input ur age');
+
+document.getElementById('yoo').innerHTML = age;
