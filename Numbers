@@ -1,0 +1,22 @@
+//Numbers in javascript
+
+var num = 10;
+//Increment num by 1
+
+num++;
+
+console.log(num);
+
+//Decrement num by 1
+num--;
+console.log(num);
+
+//divide / multiple * / remiander %
+
+console.log(num%9);
+
+// increment / decrement by any number lets say 10
+
+num += 12
+
+console.log(num);
