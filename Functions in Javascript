@@ -1,0 +1,14 @@
+function yourName(name){
+    var result = name;
+    console.log(result);  
+}
+
+var actualname=prompt('what is your name');
+
+yourName(actualname);
+
+//function add two number
+
+//function add(num1,num2){
+    var sumation = num1 + num2;
+    document.getElementById('yoo').innerHTML = sumation;
